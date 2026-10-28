@@ -132,7 +132,7 @@ sudo apt install python3-tk
 
 > The project can also be opened and run from **Visual Studio Code**.
 
-## 🕹How to use
+## How to use
 
 1. **Log in** with the password `Caja`.
 2. Choose the **data structure** (Stack, Queue or List) in the *Affiliation & structure* card.
